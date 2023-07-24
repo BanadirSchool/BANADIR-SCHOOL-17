@@ -20,7 +20,7 @@
                         <td>  A
                         <td> CAAFIMAAD</td>
                     </td>
-                </tr>
+                
             
                 <tr>
                     <td> CDC </td>
@@ -29,7 +29,7 @@
                     </td>
                     <td> CAAFIMAAD
                     </td>
-                </tr>
+                
                 <tr>               
                     <td> ANATOMY </td>
                     <td>90 
@@ -37,7 +37,7 @@
                     </td>
                     <td> CAAFIMAAD
                     </td>
-                </tr>
+                
                
                 <tr>
                         <td>PHYSIOLOGY </td>
@@ -45,14 +45,14 @@
                         <td> A+
                         <td> CAAFIMAAD
                         </td>
-                    </tr>
+                    
                     <tr>
                         <td> PHARMACOLOGY</td>
                         <td>96</td>
                         <td> A+
                         <td> CAAFIMAAD
                         </td>
-                    </tr>
+                
                     
                     <tr>
                             <td> NUTRITION</td>
@@ -62,7 +62,7 @@
                             </td> 
                             
                        
-                        </tr>   
+                          
 
                              <table border="31">
                 <tr>
@@ -78,7 +78,7 @@
                         <td>  Z
                         <td> COMPUTER</td>
                     </td>
-                </tr>
+                
             
                 <tr>
                     <td> MS- WORD </td>
@@ -86,7 +86,7 @@
                         <td>Z
                     <td> COMPUTER
                     </td>
-                </tr>
+                
                 <tr>
                     <td> M-S EXCEL </td>
                     <td>Lama Hayo  
@@ -94,7 +94,7 @@
                     </td>
                     <td> COMPUTER
                     </td>
-                </tr>
+                
                
                 <tr>
                         <td>M-S POWER POINT </td>
@@ -102,14 +102,14 @@
                         <td> Z
                         <td> COMPUTER
                         </td>
-                    </tr>
+                    
                     <tr>
                         <td> SECURITY</td>
                         <td>Lama Hayo</td>
                         <td> Z
                         <td> COMPUTER
                         </td>
-                    </tr>
+                    
 
 
 
